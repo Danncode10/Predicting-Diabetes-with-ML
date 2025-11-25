@@ -54,7 +54,7 @@
 - Initialize and train a **Logistic Regression** model.
 
 ### **3. Model 2: K-Nearest Neighbors (KNN)**
-- Initialize and train a **KNN classifier** (start with **K = 5**).
+- Initialize and train a **KNN classifier** (start with **K = 5**). 
 
 ### **4. Model 3: Random Forest Classifier**
 - Initialize and train a **Random Forest Classifier** (start with default parameters, e.g., 100 trees).
